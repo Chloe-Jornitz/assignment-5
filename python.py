@@ -1,4 +1,3 @@
-
 print("Welcome!")
 def findpi():
   try:
@@ -14,5 +13,3 @@ def findpi():
     return("Error! \nPlease enter a positive whole number. \nLetters or words, negative numbers and decimals are not allowed.")
 result=findpi()
 print (result)
-
-
