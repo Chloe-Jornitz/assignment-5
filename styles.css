@@ -7,13 +7,7 @@
   text-align: center;
 }
 
-.textfield {
-  display: block;
-  margin-left: auto;
-  margin-right: auto
-}
-
-.button {
+.button-textfield {
   display: block;
   margin: auto;
 }
