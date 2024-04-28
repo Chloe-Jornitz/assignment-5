@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.centerheading {
+  text-align: center;
+}
+
+.button {
+  display: block;
+  margin: auto;
+}
